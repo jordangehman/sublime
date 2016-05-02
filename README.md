@@ -10,13 +10,16 @@ Start with [PackageControl](https://packagecontrol.io/installation) _of course_.
 [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)  
 [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)  
 [Color​Picker](https://packagecontrol.io/packages/ColorPicker)  
+[CSS3](https://packagecontrol.io/packages/CSS3)  
 [CSS Extended Completions](https://packagecontrol.io/packages/CSS%20Extended%20Completions)  
 [j​Query](https://packagecontrol.io/packages/jQuery)  
 [JsFormat](https://packagecontrol.io/packages/JsFormat)  
 [LESS](https://packagecontrol.io/packages/LESS)  
+[Sass](https://packagecontrol.io/packages/Sass)  
 [Sidebar Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)  
 [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter) _Linters must be installed separately._ [Read the docs](https://sublimelinter.readthedocs.io/en/latest/)  
 [Theme - SoDaReloaded](https://packagecontrol.io/packages/Theme%20-%20SoDaReloaded)  
+[TrailingSpaces](https://packagecontrol.io/packages/TrailingSpaces)
 
 ##### ...then copy/paste my settings into `Preferences -> Settings - User`
 

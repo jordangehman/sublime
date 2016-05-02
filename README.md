@@ -25,13 +25,17 @@ Start with [PackageControl](https://packagecontrol.io/installation) _of course_.
 
 ```json
 {
-  "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-  "font_size": 14,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "theme": "SoDaReloaded Dark.sublime-theme",
-  "word_wrap": "true"
+    "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+    "font_size": 14,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "theme": "SoDaReloaded Dark.sublime-theme",
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+    "word_wrap": "true"
+
 }
 ```

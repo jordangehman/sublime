@@ -15,7 +15,7 @@ Start with [PackageControl](https://packagecontrol.io/installation) _of course_.
 [JsFormat](https://packagecontrol.io/packages/JsFormat)  
 [LESS](https://packagecontrol.io/packages/LESS)  
 [Sidebar Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)  
-[SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)  
+[SublimeLinter](https://packagecontrol.io/packages/SublimeLinter) _Linters must be installed separately._ [Read the docs](https://sublimelinter.readthedocs.io/en/latest/)  
 [Theme - SoDaReloaded](https://packagecontrol.io/packages/Theme%20-%20SoDaReloaded)  
 
 ##### ...then copy/paste my settings into `Preferences -> Settings - User`
